@@ -148,6 +148,7 @@ code {
   transition: 0.5s ease;
 }
 .cardText {
+  color: #707070;
   padding: 0.5em;
   position: absolute;
   transition: 0.5s ease;

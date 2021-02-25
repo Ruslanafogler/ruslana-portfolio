@@ -1,8 +1,12 @@
 import React from "react";
 
-export default function Card({ name, des, title, img }) {
+export default function Card({ name, des, title, img, link, internalLink }) {
   return (
-    <div className="card">
+    <a
+      href={internalLink ? internalLink : link}
+      target={internalLink ? "" : "_blank"}
+      className="card"
+    >
       <div className="cardContent">
         {img ? (
           <div className="cardImgContainer">
@@ -16,6 +20,6 @@ export default function Card({ name, des, title, img }) {
           <p className="cardDescription">{des}</p>
         </div>
       </div>
-    </div>
+    </a>
   );
 }

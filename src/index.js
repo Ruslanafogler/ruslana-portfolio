@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
+import "./homepage.css";
+import './projectpage.css'
 import App from "./App";
 import "bootstrap/dist/css/bootstrap.css";
 import { BrowserRouter } from "react-router-dom";
@@ -8,10 +9,13 @@ import { BrowserRouter } from "react-router-dom";
 import "framer-motion";
 import * as serviceWorker from "./serviceWorker";
 
+
 ReactDOM.render(
   <BrowserRouter>
     <React.StrictMode>
+    
       <App />
+      
     </React.StrictMode>
   </BrowserRouter>,
   document.getElementById("root")

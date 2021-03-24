@@ -3,19 +3,19 @@ import projects from "../assets/data/projects";
 import Card from "./Card";
 
 export default function Grid() {
-  const checkProject = (proj) => {
-    if (proj.link) {
-      return null;
-    }
+  // const checkProject = (proj) => {
+  //   if (proj.link) {
+  //     return null;
+  //   }
 
-    if (proj.linkwebsimple) {
-      console.log("simple");
-      return "/projectsimple";
-    } else {
-      console.log("expand");
-      return "./projectexpand";
-    }
-  };
+  //   if (proj.linkwebsimple) {
+  //     console.log("simple");
+  //     return "/projectsimple";
+  //   } else {
+  //     console.log("expand");
+  //     return "./projectexpand";
+  //   }
+  // };
 
   return (
     <div className="grid">
@@ -26,8 +26,7 @@ export default function Grid() {
           img={proj.img}
           des={proj.description}
           title={proj.title}
-          internalLink={checkProject(proj)}
-          link={proj.link}
+          addLink={proj.link}
         />
       ))}
     </div>

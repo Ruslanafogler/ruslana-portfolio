@@ -6,6 +6,7 @@ export default function HeadingBanner() {
       <div className="headingImageContainer">
         <img
           className="headingImage"
+          alt="Vector Art From Undraw"
           src={require("../assets/images/working.svg")}
         />
       </div>

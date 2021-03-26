@@ -4,7 +4,7 @@ import { Link } from "react-scroll";
 export default function Navbar({ home }) {
   const onClick = () => {
     console.log("clicked");
-    let path = `/home`;
+    let path = `/ruslana-portfolio/`;
     window.location.href = path;
   };
 

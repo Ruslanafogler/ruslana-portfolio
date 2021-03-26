@@ -85,6 +85,12 @@
 .projectPageContainer {
   background-color: white;
   padding: 0.5em;
+  opacity: 0;
+  transition: 2s opacity;
+}
+
+.fade-in {
+  opacity: 1;
 }
 
 .projectDescrip {
@@ -120,4 +126,26 @@
   background-color: #9b31ff;
   color: white;
   transition: 0.3s all ease-in-out;
+}
+
+@media (max-width: 1000px) {
+  .navContainer .nav .nav-link {
+    opacity: 0;
+    cursor: default;
+  }
+
+  .projectDescrip {
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 2em;
+  }
+
+  .buttonContainer {
+    margin: 0;
+    flex-direction: column;
+    align-items: center;
+  }
+  .button {
+    margin-top: 15px;
+  }
 }

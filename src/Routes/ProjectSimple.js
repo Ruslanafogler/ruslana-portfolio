@@ -9,6 +9,8 @@ import Button from './../Components/button';
 export default function ProjectSimple({location}) {
  
     useEffect(() => {
+      let screen = document.querySelector('.projectPageContainer');
+      screen.classList.add('fade-in')
         window.scrollTo(0, 0);
     }, []);
 

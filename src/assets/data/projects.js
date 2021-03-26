@@ -1,7 +1,8 @@
 export default [
 {name: "TorreySchedule", tags: ['react native', 'javascript', 'ui/ux design', 'entrepreneurship'], title:"Torrey Schedule", description: "A mobile app that solved schedule confusion for La Jolla Country Day Students and Faculty.", img: require('../images/icon.png'), link: 'https://apps.apple.com/ca/app/torrey-schedule/id1488224496', descrip: [
-  'lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. at vero eos et accusam et justo duo dolores et ea rebum. stet clita kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet. lorem ipsum dolor sit',
-  'lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. at vero eos et accusam et justo duo dolores et ea rebum. stet clita kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet. lorem ipsum dolor sit'
+  'The schedule of La Jolla Country Day High school fluctuates depending on the rotation; different classes and activities occur on different days, and even times for lunches and breaks weren’t easily predictable. The lack of bells and simple means to check the schedule was a daily source of frustration for students and faculty alike. In my highschool sophomore year, I pitched the Torrey Schedule app before representatives of the school administration and San Diego business executives in the Torrey Explorers Fund. Via a beautiful interface, the app would share all the events for a given day and the time before the next event began.',
+  'As one of three winners of the pitchfest, I earned $1000 to fund my Javascript frameworks education and Apple Developer membership. After teaching myself application development, troubleshooting, and reaching out to software professionals for eight months over summer and into the school year, I released the app. Currently, over 80% of our school community(student families, teachers, administration members) have downloaded it, and it’s a lasting contribution to the school.'
+
   
 ],
 
@@ -29,8 +30,8 @@ buttons:[
 },
 
 {name: "Blend", title:"Blend", tags: ['entrepreneurship', 'ux research', 'adobe photoshop'], description:"A product pitched to reduce the harsh appearance of security cameras and increase comfort in retail stores.", img: require("../images/blend.svg"), link: 'https://www.innovation-education.com/intl-housewares-show', descrip: [
-  'lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. at vero eos et accusam et justo duo dolores et ea rebum. stet clita kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet. lorem ipsum dolor sit',
-  'lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. at vero eos et accusam et justo duo dolores et ea rebum. stet clita kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet. lorem ipsum dolor sit'
+  'In my highschool sophomore year, I pitched Blend at the Chicago International Housewares Show with my partner Jeramiah Woods. After performing ethnographic research in hair salons, we realized that consumers often felt uncomfortable due to the presence of security cameras. Throughout the year while participating in Design to Open Entrepreneurship Thinking in the Innovation Lab, I brainstormed Blend: a cheap, silicone skin that would encase dome cameras. This way, cameras would remain more hidden to consumers and simultaneously continue scaring off potential burglars. ',
+  'At the International Housewares Show, we presented the product before a panel of judges and many other companies. During the conception of Blend, I was also able to learn more about mood board development and other brainstorming strategies by visiting Blink - UX Research & Design in San Diego. Time spent there provided much inspiration for the logo and postcard development.  '
   
 ],
 
@@ -77,8 +78,8 @@ buttons:[
 
 {name: "MobileMuscle", tags: ['javascript', 'ui/ux design'],
 title: "Mobile Muscle", description:"A custom-designed html website design project showcasing and advertising a mobile exercise app.", img: require('../images/mobilemuscle.svg'), descrip: [
-  'lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. at vero eos et accusam et justo duo dolores et ea rebum. stet clita kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet. lorem ipsum dolor sit',
-  'lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. at vero eos et accusam et justo duo dolores et ea rebum. stet clita kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet. lorem ipsum dolor sit'
+  "In highschool junior year, I created a mockup of MobileMuscle, a website advertising a potential mobile fitness app. Scroll down to see all the website pages and details. ",
+  
   
 ],
 
@@ -112,14 +113,12 @@ title:"Contact Screen"
 },
 ],
 
-buttons:[
-  {text: "See My AdobeXD Mockup", linkDirect: 'https://apps.apple.com/ca/app/torrey-schedule/id1488224496'},
-]},
+},
 
 {name: "CherryPi2017-2018",tags: ['java', 'solidworks/onshape', 'hardware design', 'leadership'],
 title:"Cherry Pi FTC Robotics: Relic Recovery 2017-2018 season" ,description: "Won regional 3rd place Inspire and competed in Spokane, WS and Houston, TX.", img:require('../images/cherryPi.svg'), descrip: [
-  'lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. at vero eos et accusam et justo duo dolores et ea rebum. stet clita kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet. lorem ipsum dolor sit',
-  'lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. at vero eos et accusam et justo duo dolores et ea rebum. stet clita kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet. lorem ipsum dolor sit'
+  "In the 2017 to 2019 Relic Recovery season of First Tech Challenge, my roles in team Cherry Pi included leading the team as captain, coding up much of the robot's auto and teleop functions, and calculating physics measurements for hardware. Our robot participated and advanced to Regionals, Washington Spokane Superregionals, and International Houston World Championships.",
+  "In the season, we won the 1st place Inspire Award--the highest possible award--in San Diego Regionals and the Control Award in Qualifiers. Much of our software, hardware, community service, and team-to-team connection efforts can be read about below in our engineering notebook. "
   
 ],
 
@@ -162,13 +161,13 @@ title:"Practice Field at Regionals"
 ],
 
 buttons:[
-  {text: "See Engineering Notebook Documentation", linkDirect: 'https://apps.apple.com/ca/app/torrey-schedule/id1488224496'},
+  {text: "See Engineering Notebook Documentation", linkDirect: 'https://docs.google.com/document/d/1XaapVisGY0_BVDoB1YiHo5MIE6q2QAfZtViRz_Ut5x0/edit?usp=sharing'},
  
 ]},
 
 {name: "CherryPi2018-2019", tags: ['java', 'solidworks/onshape', 'hardware design', 'leadership'], title: "Cherry Pi FTC Robotics: Rover Ruckus 2018-2019 season", description:"Won 1st or 2nd in all qualification tournaments, placed 3rd for regional Think Award.", img:require('../images/cherryPi.svg'), descrip: [
-  'lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. at vero eos et accusam et justo duo dolores et ea rebum. stet clita kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet. lorem ipsum dolor sit',
-  'lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. at vero eos et accusam et justo duo dolores et ea rebum. stet clita kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet. lorem ipsum dolor sit'
+  "In the Cherry Pi Rover Ruckus 2018 to 2019 season, I led the team as team captain, coded up much of the robot's autonomous and teleop movements, participated in prototyping and design, and calculated numerous equations used in our sensor and motor functionality. Winning first in all four qualifiers, we made huge strides in robot capability and team connections this season. Look below to see some of our competition photos or community service demos!",
+  'This season, we won first in all four preceding competitions and earned the Inspire Award in Qualifiers. We also advanced to San Diego Regionals and earned 3rd place contender for the Think Award. Click the button below to learn more about our robot and achievements in our engineering notebook. '
   
 ],
 
@@ -225,12 +224,12 @@ title:"Marketing Our Circuit Board for the Drone Sensor"
 ],
 
 buttons:[
-  {text: "See Engineering Notebook Documentation", linkDirect: 'https://apps.apple.com/ca/app/torrey-schedule/id1488224496'},
+  {text: "See Engineering Notebook Documentation", linkDirect: 'https://docs.google.com/document/d/1SLc4Jg3MyBfA8EdSdYh2rkqjhZpMtujYFyywTVKfNfQ/edit?usp=sharing'},
 ]},
 
 {name:"CrashTest2019-2020", tags: ['java', 'solidworks/onshape', 'hardware design', 'leadership'], title: "Crash Test FTC Robotics: Skystone 2019-2020 season", description: " Won 1st-3rd in all qualification tournaments and regional Design Award.", img:require('../images/crashTest.svg'), descrip: [
-  'lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. at vero eos et accusam et justo duo dolores et ea rebum. stet clita kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet. lorem ipsum dolor sit',
-  'lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. at vero eos et accusam et justo duo dolores et ea rebum. stet clita kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet. lorem ipsum dolor sit'
+  "In team Crash Test's 2019 to 2020 Skystone season, I served as head of the software committee and served on the design, armature, and outreach comittees. This season, our robot placed in the top four for each preceding competition and earned 2nd place Inspire in the Qualifiers. We also advanced to San Diego Regionals and earned the Design Award for our robot's sleek and functional appearance. Our robot also received acknowledgement for the software control capabilities and our outreach efforts.",
+  "Much of the season was spent honing our accuracy with robot positioning and acceleration capabilities. We also placed heavy focus on making our robot appear both beautiful and sturdy with clean paneling. To see more of our robot in action, click on the link below and follow our Instagram!"
   
 ],
 
@@ -300,12 +299,11 @@ title:"Semi-Finals in Regionals"
 ],
 
 buttons:[
-  {text: "See Our Instagram", linkDirect: 'https://apps.apple.com/ca/app/torrey-schedule/id1488224496'},
-  {text: "See Our Website", linkDirect: 'https://play.google.com/store/apps/details?id=com.fogler.scheduleapp'}
+  {text: "See Our Instagram", linkDirect: 'https://www.instagram.com/crashtest14140/'}
 ]},
 
 {name:"LaserCutting", tags:['vector art design '], title: "Laser Cutting and Graphic Design", description:"A series of laser cut or graphic design projects using La Jolla Country Day's Innovation Lab equipment: art, signs, coasters, etc.", img:require('../images/inkscape.svg'), descrip: [
-  'lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. at vero eos et accusam et justo duo dolores et ea rebum. stet clita kasd gubergren, no sea takimata sanctus est lorem ipsum dolor sit amet. lorem ipsum dolor sit'
+  "Here's a short compilation of various projects I laser-cut using the La Jolla Country Day Innovation Lab's laser cutter. All of the crafts below were specially designed through the vector art program Inkscape before being cut with a CO2 laser. The images below include coasters, visual contraptions, and robotics-related items. "
   
 ],
 

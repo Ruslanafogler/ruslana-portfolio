@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ruslana-portfolio/static/css/main.3b7af7bf.chunk.css",
-    "main.js": "/ruslana-portfolio/static/js/main.cae5fb99.chunk.js",
-    "main.js.map": "/ruslana-portfolio/static/js/main.cae5fb99.chunk.js.map",
+    "main.css": "/ruslana-portfolio/static/css/main.0f4dec6a.chunk.css",
+    "main.js": "/ruslana-portfolio/static/js/main.f89ad3d8.chunk.js",
+    "main.js.map": "/ruslana-portfolio/static/js/main.f89ad3d8.chunk.js.map",
     "runtime-main.js": "/ruslana-portfolio/static/js/runtime-main.24142990.js",
     "runtime-main.js.map": "/ruslana-portfolio/static/js/runtime-main.24142990.js.map",
-    "static/css/2.fc4bee46.chunk.css": "/ruslana-portfolio/static/css/2.fc4bee46.chunk.css",
-    "static/js/2.35f6d695.chunk.js": "/ruslana-portfolio/static/js/2.35f6d695.chunk.js",
-    "static/js/2.35f6d695.chunk.js.map": "/ruslana-portfolio/static/js/2.35f6d695.chunk.js.map",
+    "static/css/2.b5e81cde.chunk.css": "/ruslana-portfolio/static/css/2.b5e81cde.chunk.css",
+    "static/js/2.e90698e0.chunk.js": "/ruslana-portfolio/static/js/2.e90698e0.chunk.js",
+    "static/js/2.e90698e0.chunk.js.map": "/ruslana-portfolio/static/js/2.e90698e0.chunk.js.map",
     "index.html": "/ruslana-portfolio/index.html",
-    "precache-manifest.dee4c8d6e02bba92c0ad2ed0193f8309.js": "/ruslana-portfolio/precache-manifest.dee4c8d6e02bba92c0ad2ed0193f8309.js",
+    "precache-manifest.dc4781af77a0da6e670663cd7396891e.js": "/ruslana-portfolio/precache-manifest.dc4781af77a0da6e670663cd7396891e.js",
     "service-worker.js": "/ruslana-portfolio/service-worker.js",
-    "static/css/2.fc4bee46.chunk.css.map": "/ruslana-portfolio/static/css/2.fc4bee46.chunk.css.map",
-    "static/css/main.3b7af7bf.chunk.css.map": "/ruslana-portfolio/static/css/main.3b7af7bf.chunk.css.map",
-    "static/js/2.35f6d695.chunk.js.LICENSE.txt": "/ruslana-portfolio/static/js/2.35f6d695.chunk.js.LICENSE.txt",
+    "static/css/2.b5e81cde.chunk.css.map": "/ruslana-portfolio/static/css/2.b5e81cde.chunk.css.map",
+    "static/css/main.0f4dec6a.chunk.css.map": "/ruslana-portfolio/static/css/main.0f4dec6a.chunk.css.map",
+    "static/js/2.e90698e0.chunk.js.LICENSE.txt": "/ruslana-portfolio/static/js/2.e90698e0.chunk.js.LICENSE.txt",
     "static/media/LTDemo.JPG": "/ruslana-portfolio/static/media/LTDemo.dc74f1ad.JPG",
     "static/media/Regionals.JPG": "/ruslana-portfolio/static/media/Regionals.f629847d.JPG",
     "static/media/SRrobot.jpg": "/ruslana-portfolio/static/media/SRrobot.90d444bd.jpg",
@@ -37,7 +37,7 @@
     "static/media/dmc1.jpg": "/ruslana-portfolio/static/media/dmc1.ecccbdc6.jpg",
     "static/media/front_card.png": "/ruslana-portfolio/static/media/front_card.2113f1ce.png",
     "static/media/icon.png": "/ruslana-portfolio/static/media/icon.0bd24098.png",
-    "static/media/inkscape.svg": "/ruslana-portfolio/static/media/inkscape.9e4cd8c3.svg",
+    "static/media/inkscape.svg": "/ruslana-portfolio/static/media/inkscape.43cb05c9.svg",
     "static/media/iphone_6.5_schedule.png": "/ruslana-portfolio/static/media/iphone_6.5_schedule.6c025e8b.png",
     "static/media/iphone_6.5_timer.png": "/ruslana-portfolio/static/media/iphone_6.5_timer.03546cea.png",
     "static/media/koifish1.jpg": "/ruslana-portfolio/static/media/koifish1.ef22e24f.jpg",
@@ -68,9 +68,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.24142990.js",
-    "static/css/2.fc4bee46.chunk.css",
-    "static/js/2.35f6d695.chunk.js",
-    "static/css/main.3b7af7bf.chunk.css",
-    "static/js/main.cae5fb99.chunk.js"
+    "static/css/2.b5e81cde.chunk.css",
+    "static/js/2.e90698e0.chunk.js",
+    "static/css/main.0f4dec6a.chunk.css",
+    "static/js/main.f89ad3d8.chunk.js"
   ]
 }

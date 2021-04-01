@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eca47c51cbf341068af65b43cfa5d160",
+    "revision": "739f6456661b2fc76215d603c59edc1e",
     "url": "/ruslana-portfolio/index.html"
   },
   {
-    "revision": "50a609d2ce90413c9125",
-    "url": "/ruslana-portfolio/static/css/2.fc4bee46.chunk.css"
+    "revision": "249dff4b1f77e2887960",
+    "url": "/ruslana-portfolio/static/css/2.b5e81cde.chunk.css"
   },
   {
-    "revision": "c15cec148a45397853f7",
-    "url": "/ruslana-portfolio/static/css/main.3b7af7bf.chunk.css"
+    "revision": "7e074ba79a7a5e1af9ab",
+    "url": "/ruslana-portfolio/static/css/main.0f4dec6a.chunk.css"
   },
   {
-    "revision": "50a609d2ce90413c9125",
-    "url": "/ruslana-portfolio/static/js/2.35f6d695.chunk.js"
+    "revision": "249dff4b1f77e2887960",
+    "url": "/ruslana-portfolio/static/js/2.e90698e0.chunk.js"
   },
   {
-    "revision": "49dbfc5774b39dd7fefd60ed4d73be9b",
-    "url": "/ruslana-portfolio/static/js/2.35f6d695.chunk.js.LICENSE.txt"
+    "revision": "4b2187cb3d4892760b5e806e9c0a0d77",
+    "url": "/ruslana-portfolio/static/js/2.e90698e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c15cec148a45397853f7",
-    "url": "/ruslana-portfolio/static/js/main.cae5fb99.chunk.js"
+    "revision": "7e074ba79a7a5e1af9ab",
+    "url": "/ruslana-portfolio/static/js/main.f89ad3d8.chunk.js"
   },
   {
     "revision": "17186d20ad7e70f0970f",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ruslana-portfolio/static/media/icon.0bd24098.png"
   },
   {
-    "revision": "9e4cd8c30bd0ed6fcf5688cb244d46a9",
-    "url": "/ruslana-portfolio/static/media/inkscape.9e4cd8c3.svg"
+    "revision": "43cb05c946608da989d2fb04828f9951",
+    "url": "/ruslana-portfolio/static/media/inkscape.43cb05c9.svg"
   },
   {
     "revision": "6c025e8bf58d7226380399d352b17fac",

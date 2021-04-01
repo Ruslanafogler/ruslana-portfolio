@@ -1,4 +1,5 @@
 import  {useEffect} from 'react'
+import { useHistory } from "react-router-dom";
 import React from "react";
 import projects from '../assets/data/projects';
 import Navbar from "../Components/Navbar";
@@ -19,6 +20,8 @@ export default function ProjectSimple({location}) {
       let path = `/home`;
     window.location.href = path;
     }
+
+    let history = useHistory();
   const{name} = location.projectProps;
   const project = projects.find(proj => proj.name === name);
   const { title, img, tags, descrip, projectImgs, buttons, gridStyle} = project;
@@ -26,6 +29,10 @@ export default function ProjectSimple({location}) {
   const onClick = (link) => {
     var win = window.open(link, '_blank');
     win.focus();
+  }
+
+  const returnToHome = () => {
+    history.push('./home');
   }
   
   return (
@@ -41,7 +48,11 @@ export default function ProjectSimple({location}) {
       {buttons.map(button => 
           <Button text={button.text} onClick={()=> onClick(button.linkDirect)}/>)
       }
+    
+
       </div>}
+
+      <Button className='homeButton' text={"return to home page"} onClick={()=> returnToHome()}/>
      <BottomBar />
     </div>
   );

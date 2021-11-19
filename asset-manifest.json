@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ruslana-portfolio/static/css/main.0f4dec6a.chunk.css",
-    "main.js": "/ruslana-portfolio/static/js/main.f89ad3d8.chunk.js",
-    "main.js.map": "/ruslana-portfolio/static/js/main.f89ad3d8.chunk.js.map",
+    "main.js": "/ruslana-portfolio/static/js/main.266c392f.chunk.js",
+    "main.js.map": "/ruslana-portfolio/static/js/main.266c392f.chunk.js.map",
     "runtime-main.js": "/ruslana-portfolio/static/js/runtime-main.24142990.js",
     "runtime-main.js.map": "/ruslana-portfolio/static/js/runtime-main.24142990.js.map",
     "static/css/2.b5e81cde.chunk.css": "/ruslana-portfolio/static/css/2.b5e81cde.chunk.css",
     "static/js/2.e90698e0.chunk.js": "/ruslana-portfolio/static/js/2.e90698e0.chunk.js",
     "static/js/2.e90698e0.chunk.js.map": "/ruslana-portfolio/static/js/2.e90698e0.chunk.js.map",
     "index.html": "/ruslana-portfolio/index.html",
-    "precache-manifest.dc4781af77a0da6e670663cd7396891e.js": "/ruslana-portfolio/precache-manifest.dc4781af77a0da6e670663cd7396891e.js",
+    "precache-manifest.f66393068eb8f05038b841a5daeea5de.js": "/ruslana-portfolio/precache-manifest.f66393068eb8f05038b841a5daeea5de.js",
     "service-worker.js": "/ruslana-portfolio/service-worker.js",
     "static/css/2.b5e81cde.chunk.css.map": "/ruslana-portfolio/static/css/2.b5e81cde.chunk.css.map",
     "static/css/main.0f4dec6a.chunk.css.map": "/ruslana-portfolio/static/css/main.0f4dec6a.chunk.css.map",
@@ -71,6 +71,6 @@
     "static/css/2.b5e81cde.chunk.css",
     "static/js/2.e90698e0.chunk.js",
     "static/css/main.0f4dec6a.chunk.css",
-    "static/js/main.f89ad3d8.chunk.js"
+    "static/js/main.266c392f.chunk.js"
   ]
 }
